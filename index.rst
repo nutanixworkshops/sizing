@@ -1,60 +1,15 @@
 .. title:: Introduction to Nutanix Sizing
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Discovery
-  :name: _discovery
-  :hidden:
+-----------
+END OF LIFE
+-----------
 
-  discovery/servervirt/servervirt
-  discovery/databases/databases
-  discovery/vdi/vdi
-  discovery/fileservices/fileservices
-  discovery/bigdata/bigdata
-  discovery/uc/uc
-  discovery/exchange/exchange
-  discovery/ntnx/ntnx
+The Nutanix Sizing Reference Guide has been replaced with an updated, user-friendly training series on Nutanix University, **Sizing Fundamentals of the Enterprise Cloud**. This series covers all topics discussed in the retired Reference Guide, including new hands-on exercises, and has been expanded to cover new workloads and Sizer features.
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Data Collection & Analysis
-  :name: _datacollection
-  :hidden:
+Up-to-date questions for sizing discovery, covering multiple workloads, can now be found in `Sizer Help <https://sizer.nutanix.com/#/help/topics/32>`_.
 
-  datacollection/rvtools/rvtools
-  datacollection/rvtools-lab1/rvtools-lab1
-  datacollection/rvtools-lab1-answers/rvtools-lab1-answers
-  datacollection/liveoptics/liveoptics
+**Access the new training using one of the links below:**
 
-.. toctree::
-  :maxdepth: 2
-  :caption: Sizer
-  :name: _sizer
-  :hidden:
+- **Non-Employee Link:** `Sizing Fundamentals for the Enterprise Cloud - Core <https://www.nutanixuniversity.com/lms/index.php?r=course/deeplink&course_id=440&hash=a5dc37eb41b96f55bbccfd592bb458cc13a90814&generated_by=19002>`_.
 
-  sizer/overview/overview
-  sizer/intro-lab/intro-lab
-
-.. _getting_started:
-
----------------
-Getting Started
----------------
-
-Welcome to the Nutanix Sizing Workshop! This workbook provides self-paced instruction and exercises that introduce Nutanix sizing guidelines and best practices. You will also be introduced to the Nutanix Sizer tool, and work through multiple sizing scenarios.
-
-What's New
-++++++++++
-
-- Initial Version (6/22/18)
-
-Access Instructions
-+++++++++++++++++++
-
-The Nutanix Sizer tool is available to Nutanix employees and partners at http://sizer.nutanix.com
-
-**Nutanix Employees** - Choose **Salesforce Login**
-
-.. note:: While Nutanix employees can access Sizer via their My Nutanix credentials, accessing Sizer via Salesforce provides simplified workflows for uploading BOMs and creating quotes.
-
-**Partners** - Choose **My Nutanix Login**
+- **Employee Link:** `Sizing Fundamentals for the Enterprise Cloud - Core <https://www.nutanixuniversity.com/sales/lms/index.php?r=course/deeplink&course_id=440&hash=d11d1354b0242fdc5321056947b59621aafadc1c&generated_by=19592>`_.

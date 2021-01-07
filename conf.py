@@ -50,8 +50,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Nutanix Tech Summit 2018'
-copyright = u'2018 Nutanix'
+project = u'Nutanix 2021'
+copyright = u'2021 Nutanix'
 author = u'Nutanix Global Technical Enablement'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -179,7 +179,7 @@ html_theme_options = {
     'bootstrap_version': "3",
 }
 
-html_sidebars = {'**': ['localtoc.html']}
+# html_sidebars = {'**': ['localtoc.html']}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
